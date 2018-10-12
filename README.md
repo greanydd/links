@@ -3,5 +3,4 @@ Liste von spannenden Links zu verschiedensten Themen.
 
 ## Frameworks, APIs und mehr
 
-* [https://vuejs.org] Vue.js
-
+* [Vue.js](https://vuejs.org): The Progressive JavaScript Framework
